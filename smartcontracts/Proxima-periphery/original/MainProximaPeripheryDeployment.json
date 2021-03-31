@@ -1,0 +1,12 @@
+{
+    "deployer": "0x690a4f012C626339083c5a920e3f767152737316",
+    "router": "0x8BA8541453e54ce4098Db0B2919bF42C4Ebce69E",
+    "PAIRS": "====================================================",
+    "bnbPair": "0xE73738F6c03D772e0171ca5f3Da7c7fE98a652f1",
+    "ethPair": "0x1DC3BE7e7831B2Af6B0FC19cCe773D88BA74FF03",
+    "btcPair": "0xfcbF5f3C0A3ef6A39C86C6ab1260824Fdaf96bDE",
+    "busdPair": "0x56739aAe2BEf262A588f35C8Ae54aBC0D9fD3421",
+    "dotPair": "0x94f872714D7181BA3d262EB8fD4eF1451872049C",
+
+    "routerp":"https://bscscan.com/address/0x8BA8541453e54ce4098Db0B2919bF42C4Ebce69E#contracts"
+}

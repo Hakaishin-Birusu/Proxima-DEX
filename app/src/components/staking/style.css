@@ -1,0 +1,160 @@
+.inner-card-header {
+    text-align: center;
+    border-bottom: 1px solid #68696a66 !important;
+}
+
+.inner-img {
+    width: 200px;
+    object-fit: contain;
+}
+
+.aligncenter {
+    text-align: center;
+}
+
+.inner-card-text {
+    font-weight: 600 !important;
+    text-align: center !important;
+    margin-bottom: 10px !important;
+    color: #a0aec0 !important;
+
+}
+
+.list-group-flush>li>p {
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 0px;
+    padding: 15px;
+}
+
+
+
+.outer-card {
+    background-color: #10101066 !important;
+}
+
+.inner-card-bg {
+    background-color: #25282a !important;
+    color: #a0aec0 !important;
+    border-radius: 10px !important;
+}
+
+.list-group-flush>li {
+    background-color: #25282a !important;
+    border-bottom: 1px solid #68696a66;
+    border-radius: 32px !important;
+}
+
+.inner-card-body>.card-title {
+    font-weight: 600 !important;
+    text-align: center !important;
+    margin-bottom: 10px !important;
+}
+
+.nav-link.active {
+    color: #e26313 !important;
+    font-weight: 600;
+    background-color: transparent !important;
+    border: 1px solid #e26313 !important;
+    border-bottom: 1px solid #e26313 !important;
+    font-size: 20px !important;
+}
+
+.nav-link {
+    color: #828295 !important;
+    font-weight: 600;
+    background-color: transparent !important;
+    font-size: 20px !important;
+    border-bottom: 0;
+}
+
+.nav-link:hover {
+    background-color: transparent !important;
+    border: 1px solid #e26313 !important;
+    border-bottom: 1px solid #e26313 !important;
+}
+
+.nav-tabs {
+    border-bottom: 0px solid transparent !important;
+}
+
+.nav-tabs .nav-link {
+    /* border: 0px solid transparent !important; */
+}
+
+.marginbottom50 {
+    margin-bottom: 50px;
+}
+
+.nav-justified .nav-item,
+.nav-justified>.nav-link {
+    margin: 5px;
+}
+
+.list-group-item {
+    padding: 0px !important;
+}
+
+.addliquidity {
+    background-color: transparent !important;
+    border:1px solid rgba(142, 143, 145, 0.8) !important;
+    color: #fff !important;
+    margin-right: 20px;
+}
+
+.addliquiditybtn {
+    font-weight: 600 !important;
+    color: #e26313 !important;
+    background-color: transparent !important;
+    border: 1px solid #e26313 !important;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.removeliquidity {
+    width: 100%;
+    font-weight: 600 !important;
+    color: #e26313 !important;
+    background-color: transparent !important;
+    border: 1px solid #e26313 !important;
+    cursor: pointer;
+}
+
+.dropdownicon {
+    height: 20px;
+    width: 20px;
+    object-fit: contain;
+}
+
+.noliquidity {
+    font-weight: 600;
+    text-align: center;
+    margin-bottom: 0px !important;
+}
+
+.per70Card__addLiq {
+    color: #fff;
+    font-size: 13px;
+    font-weight: 600;
+    background: transparent;
+    border-radius: 10px;
+}
+
+.earn__tableCellLabel {
+    border-bottom: 1px solid rgba(49,60,72,0.3);
+    color: #dbe3ec;
+}
+
+.earn__tableCellValue {
+    border-bottom: 1px solid rgba(49,60,72,0.3);
+    color: #53667b;
+}
+
+.earn_depositRow {
+    background-color:#16191e !important;
+    border-bottom:1px solid rgba(49,60,72,0.3) !important;
+}
+.earn_depositRow-last {
+    background-color:#16191e !important;
+    border-bottom:0px !important
+}

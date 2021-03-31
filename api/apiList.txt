@@ -1,0 +1,26 @@
+API
+
+
+Reward 
+1)http://localhost:1995/rewards/getswaprewards/0x3109Fa6aCA44875326D350C2b3D18504C3952CF0
+2)http://localhost:1995/rewards/getfaucetrewards/0x3109Fa6aCA44875326D350C2b3D18504C3952CF0
+
+COntributedLiquidity
+1) http://localhost:1995/cLiquidity/getinfo/
+2) http://localhost:1995/cLiquidity/getuserinfo/0/0x3109Fa6aCA44875326D350C2b3D18504C3952CF0
+3) http://localhost:1995/cLiquidity/getpoolinfo/0/
+
+history
+1)http://localhost:1995/history/getHistory/0x3109Fa6aCA44875326D350C2b3D18504C3952CF0
+add check for address 
+2) http://localhost:1995/history/addHistory/ (test)
+
+
+Governance
+1) http://localhost:1995/governance/getvotes/0x3109fa6aca44875326d350c2b3d18504c3952cf0
+2)http://localhost:1995/governance/getactivepairs/0x3109Fa6aCA44875326D350C2b3D18504C3952CF0/0
+3)http://localhost:1995/governance/getfinishedpairs/0x3109Fa6aCA44875326D350C2b3D18504C3952CF0/0
+
+
+deploy contributed liquidity again with correct numbers
+

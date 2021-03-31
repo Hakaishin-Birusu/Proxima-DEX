@@ -1,0 +1,71 @@
+.modalwallet {
+    color: #fff;
+    background: #2c2f36;
+}
+
+.marginBtm0 {
+    margin-bottom: 0px;
+}
+
+.displayflex {
+    display: flex;
+    justify-content: space-between
+}
+
+.label {
+    margin-bottom: 0px;
+    margin-top: 10px;
+    letter-spacing: 1px;
+    font-weight: 600
+}
+
+.heading {
+    font-size: 16px !important;
+    font-weight: 600 !important;
+}
+
+.centeralign {
+    text-align: center
+}
+
+.modalheader {
+    border-bottom: none !important;
+    padding-bottom: 0px !important;
+    
+}
+
+.changebtn {
+    color: #ff6600 !important;
+    padding: 4px 6px;
+    border-radius: 12px !important;
+    font-size: 12px !important;
+}
+
+.addressstyle {
+    font-size: 26px !important;
+    font-weight: 600;
+}
+
+.colfont {
+    border: 1px solid grey;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.copyaddress {
+    font-size: 14px;
+    margin-bottom: 0px;
+    color: #6c7284;
+    cursor: pointer;
+    /* text-decoration: underline; */
+}
+.copyaddress:hover{
+    text-decoration: underline;
+}
+.flexdisplay{
+    display: flex;
+}
+.ahreffont{
+    text-decoration: none !important;
+    color: #6c7284 !important;
+}

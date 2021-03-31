@@ -1,0 +1,28 @@
+{
+    "pxa": "0x086b098699A219903F5a7Df526Ba2874f1637f30",
+    "WBNB": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+    "deployer": "0x690a4f012C626339083c5a920e3f767152737316",
+    "BBStorage": "0x3f02E7CD973D7c9D5275421f1B9709481d823B63",
+    "proximaFaucet": "0xb2BDfc5305eBc320be2B43C380B9C645CBd1E467",
+    "proximaFactory": "0x642E7fb78A719133f15A73E14ac5801048aD79Bc",
+    "proximaMaker": "0x894a60dc96deA97e809063c6C098f9707c21B0a0",
+    "proximaWatchDog": "0x23c9c8d31462da995A677faf73fa28A8F6c43F54",
+    "proximaTeamToken": "0x234bFC42323Fc8F840FE226E57D6Ef13F36CeA2e",
+    "proximaGovernance": "0x1A1F3AdA8674896B8e312BF260A390E24A7b6a9A",
+    "proximaRewardVault": "0xB761CDEb75746345c398b394A3E88443d368cC6C",
+    "proximaContributedLiquidity": "0x02Cf88c64a4C9cEDe780B32B9e017Ee3D61897a9",
+    "initHash": "0x404b0ead6e097c0ac9bb4b1ecd0de807903af223a6798cd20b5d716d3b55bef3",
+
+
+
+    "maker" :"https://bscscan.com/address/0x894a60dc96deA97e809063c6C098f9707c21B0a0#contracts",
+    "governor": "https://bscscan.com/address/0x1A1F3AdA8674896B8e312BF260A390E24A7b6a9A#contracts",
+    "factory":"https://bscscan.com/address/0x642E7fb78A719133f15A73E14ac5801048aD79Bc#contracts",
+    "BBStoragep":"https://bscscan.com/address/0x3f02E7CD973D7c9D5275421f1B9709481d823B63#contracts",
+    "proximaRewardVaultp":"https://bscscan.com/address/0xB761CDEb75746345c398b394A3E88443d368cC6C#contracts",
+    "proximaContributedLiquidityp":"https://bscscan.com/address/0x02Cf88c64a4C9cEDe780B32B9e017Ee3D61897a9#contracts",
+    "faucet":"https://bscscan.com/address/0xb2BDfc5305eBc320be2B43C380B9C645CBd1E467#contracts"
+
+
+}
+

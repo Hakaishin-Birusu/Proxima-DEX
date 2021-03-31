@@ -1,0 +1,49 @@
+.headerPtag {
+    margin-bottom: 0px;
+    font-size: 16px !important;
+    font-weight: 600;
+    margin-right: 30px;
+    cursor: pointer;
+    text-decoration: none !important;
+    color: #fff;
+    letter-spacing: 0.5px;
+    
+
+}
+
+.headerPtag:hover {
+    color: #fff !important;
+}
+
+.connectwallet {
+    color: #e26313 !important;
+    border-color: #e26313 !important;
+    font-weight: 600 !important;
+}
+
+.pxaaggregrate {
+    /* color: #e26313 !important; */
+    /* border-color: #e26313 !important; */
+    font-weight: 600 !important;
+    margin-right: 10px;
+    cursor: text !important;
+}
+
+.connectwallet:hover {
+    color: #fff !important;
+    border-color: transparent !important;
+    background-color: #e26313 !important;
+}
+
+.linkhref {
+    text-decoration: none !important;
+    color: #c0c0c0;
+}
+
+.linkhref:hover {
+    color: #fff !important;
+}
+
+.is-active {
+    color: #e26313 !important;
+}
